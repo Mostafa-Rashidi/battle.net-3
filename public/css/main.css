@@ -2909,7 +2909,7 @@ a.toppage {
     footer > div.adventure {
       width: 100%;
       height: 450px;
-      background-color: magenta;
+      background-color: #23252B;
       position: relative; }
       footer > div.adventure > img {
         width: inherit;
